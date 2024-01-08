@@ -22,12 +22,14 @@ font-weight: 400;
      text-align: center;
      font-size: 50px;
      font-weight: 700;
+   margin-bottom: auto;
      
      
 }
 .section{
      color: black;
     margin-top: -55px;
+    
 
 }
 .banner-2{
@@ -49,27 +51,59 @@ font-weight: 400;
 }
 .paragrap{
      font-size: 12px;
-     
-}
-.banne-3{
-text-align: center;
-font-size: 32px;
-margin-top: 400px;
-
+   
 }
 
-.baton{ 
-     background-color: #F00;
-     display: inline-flex;
-padding: 10px 50px;
-font-size: 20px;
-font-weight: 700;
-
-
-     
-     
-     
-}
 span{
      color: #F00;
 }
+.baton{
+     font-size: 25px;
+    background-color: #ff000f;
+    color: #FFF;
+    width: 200px;
+    height: 80px;
+    border-radius:10px;
+    border: none;
+}
+
+.banne-3{
+     margin-top: 160px;
+     position: absolute;
+    margin-left: 450px;
+    font-size: 25px;
+    font-weight: 800;
+    
+    
+}
+.section1{
+    max-width: 1320px;
+    background-color: rgb(234, 225, 226);
+    margin: 0 auto;
+    margin-top: 100px;
+    text-align: center;
+    height: 482px;
+    
+}
+.section3{
+     max-width: 1320px;
+     margin: 0 auto;
+     display: flex;
+     margin-top: 100px;
+     
+}
+.div-section{
+     display: flex;
+     padding: 10px;
+}
+p{
+     color: gray;
+}
+  
+
+
+
+   
+
+   
+
